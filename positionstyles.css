@@ -136,14 +136,13 @@
     width: 200px; 
     height: 200px; 
     background-color: green;
-    position:relative;
-    
+    float: left;
      } 
     .yellow6 {
     width: 600px; 
-    height: 250px; 
+    height: 350px; 
     background-color: gold; 
-    margin-top: -200px;        
+           
     }
     .blue6 {
     width: 600px; 
