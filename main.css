@@ -138,6 +138,23 @@ h2 {color: #156ECA ;
  #banner img {
      width: 100%;
  }
+
+#q1 {border-color:#FFD508;
+    border-style:ridge;
+    border-width: medium;
+    margin-bottom: 15px;
+}
+
+#q2 {border-color:#156ECA;
+border-style: ridge;
+border-width: medium;
+margin-bottom: 15px;}
+
+#q3 {border-color:#FF3308 ;
+border-style: ridge;
+border-width: medium;
+margin-bottom: 15px;}
+ 
  
  footer {
      height: 55px;
